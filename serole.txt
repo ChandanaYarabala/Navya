@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-serole technologies
-=======
-serole technologies
->>>>>>> 1efa486bb01e1f57ef9315426750021ce149534a
